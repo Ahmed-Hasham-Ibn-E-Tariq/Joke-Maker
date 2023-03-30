@@ -1,0 +1,31 @@
+body{
+
+    background-color: skyblue;
+}
+.container{
+    display: block;
+    margin: auto;
+    margin-top: 300px;
+    text-align: center;
+    background-color: aliceblue;
+    width: 70vh;
+    height: 30vh;
+    border: 1px solid black;
+    border-radius: 40px;
+}
+#jokeBtn{
+
+background-color:coral;
+border-radius: 3px;
+margin-top: 5vh;
+padding: 12px;
+height: 4vh;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#joke{
+
+    margin-top: 5vh;
+
+
+}
